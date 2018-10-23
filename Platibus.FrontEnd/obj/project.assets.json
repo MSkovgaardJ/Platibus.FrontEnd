@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\skakk\\source\\repos\\Platibus.FrontEnd\\Platibus.FrontEnd\\Platibus.FrontEnd.csproj",
+      "projectUniqueName": "C:\\Users\\skakk\\Documents\\Platibus.FrontEnd\\Platibus.FrontEnd\\Platibus.FrontEnd.csproj",
       "projectName": "Platibus.FrontEnd",
-      "projectPath": "C:\\Users\\skakk\\source\\repos\\Platibus.FrontEnd\\Platibus.FrontEnd\\Platibus.FrontEnd.csproj",
+      "projectPath": "C:\\Users\\skakk\\Documents\\Platibus.FrontEnd\\Platibus.FrontEnd\\Platibus.FrontEnd.csproj",
       "packagesPath": "C:\\Users\\skakk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\skakk\\source\\repos\\Platibus.FrontEnd\\Platibus.FrontEnd\\obj\\",
+      "outputPath": "C:\\Users\\skakk\\Documents\\Platibus.FrontEnd\\Platibus.FrontEnd\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
